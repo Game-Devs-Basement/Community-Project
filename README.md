@@ -3,7 +3,7 @@
 # GDB's Open Community Project
 
 Welcome reader! Game Devs Basement is a discord server dedicated to Game Dev and Fun! 
-This community project is all about bring the GDB community together 
+This community project is all about bringing the GDB community together 
 while learning and developing valuable skills such as team collaboration.
 
 This is the first community project that we are organizing and this will be the 
