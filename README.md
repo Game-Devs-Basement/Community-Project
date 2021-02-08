@@ -25,7 +25,7 @@ tab - for including any new feature, reporting bugs, or for just asking and answ
 
 ## Contribution guidelines
 
-coming soon I guess.
+Please read the [contribution guidelines document](https://docs.google.com/document/d/17nZQOxHguvQL5XzYT4B1LzXunR0ohUWdrYSk7HKbUkc/edit?usp=sharing) to learn how to contribute to the project. If you do not follow the guidelines your PR might be asked to be reviewed again to follow our guidelines or be rejected in some cases.
 
 ## How to play the game
 
