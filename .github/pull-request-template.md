@@ -1,11 +1,3 @@
----
-name: Pull request template
-about: Create a Pull Request for the contributions you made to be added
-title: ''
-labels: ''
-assignees: ''
-
----
 
 _(This is mandatory) Please answer below each of the questions related to your PR and delete everything else_
 
